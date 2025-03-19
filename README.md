@@ -43,20 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
-
-<h3 align="left">My Stats</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcon/lcon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcon/lcon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lcon/lcon/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF6MTl0M2E2ODVyZHV3NnE2bWduMXgycTYzYjQ2cnViaXh1bTJuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pvgexiCOJpk7PnAOZt/giphy.gif"  />
 </div>
