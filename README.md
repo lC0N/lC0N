@@ -23,11 +23,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning C#<br>- ⚡ In my free time I edit videos</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
