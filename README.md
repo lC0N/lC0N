@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="center"></h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
@@ -43,8 +43,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF6MTl0M2E2ODVyZHV3NnE2bWduMXgycTYzYjQ2cnViaXh1bTJuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pvgexiCOJpk7PnAOZt/giphy.gif"  />
-</div>
 
-###
