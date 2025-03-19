@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">IC0N</h1>
+<h1 align="center">༼ IC0N ༽</h1>
 
 ###
 
