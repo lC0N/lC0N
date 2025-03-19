@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/ios11/512/FFFFFF/adobe-after-effects.png" height="40" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://www.iconsdb.com/icons/preview/white/apple-xxl.png" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" height="40" alt="linux logo"  />
   <img width="12" />
