@@ -28,15 +28,15 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://img.icons8.com/win10/512/FFFFFF/c-sharp-logo.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/adobe-after-effects.png" height="40" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/mac-os.png" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://img.icons8.com/m_rounded/512/FFFFFF/adobe-photoshop.png" height="40" alt="photoshop logo"  />
 </div>
 
 
