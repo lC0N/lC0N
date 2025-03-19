@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">˗ˏˋ ★ ˎˊ˗ IC0N ˗ˏˋ ★ ˎˊ˗</h1>
+<h1 align="center">★ IC0N ★</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="center"> ༺ Language and tools ༻ </h3>
+<h3 align="center">★Language and tools★</h3>
 
 ###
 
